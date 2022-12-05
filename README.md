@@ -7,7 +7,7 @@ Olá, Prazer meu nome é Alexandre 👋
 
 
 <div align="center">
-  <a href="https://github.com/AlexandrePereira12">
+  <a href="https://github.com/AlexandrePerira12">
   <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=AlexandrePereira12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrePereira12&layout=compact&langs_count=7&theme=dracula"/>
 </div>
