@@ -1,6 +1,6 @@
 Olá, Prazer meu nome é Alexandre 👋
 
-- 🔭 Atualmente trabalhando: como tecnico de informatica 
+- 🔭 Atualmente trabalhando como: tecnico de informatica 
 - 🌱 Estou aprendendo: HTML, CSS, Java Script, React e Python
 - 📫 Contato: alexpln259@gmail.com
 - 📚 Cursando: Analise e desenvolvimento de Sistemas na Estácio
