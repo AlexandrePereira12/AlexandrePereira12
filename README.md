@@ -1,7 +1,7 @@
 Olá, Prazer meu nome é Alexandre 👋
 
 - 🔭 Atualmente trabalhando como: Analista de suporte Junior - IBM 
-- 🌱 Estou aprendendo: HTML, CSS, Java Script, React e Python
+- 🌱 Estou aprendendo: React, Java e SQL
 - 📫 Contato: alexpln259@gmail.com
 - 📚 Cursando: Analise e desenvolvimento de Sistemas - Estácio
 
