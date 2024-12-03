@@ -1,9 +1,9 @@
 Olá, Prazer meu nome é Alexandre 👋
 
-- 🔭 Atualmente trabalhando como: Analista de suporte Junior - IBM 
-- 🌱 Estou aprendendo: React, Java e SQL
+- 🔭 Atualmente trabalhando como: Suporte tecnico nivel 2 - RastroSystem
+- 🌱 Estou aprendendo: Cypress, Python e Django
 - 📫 Contato: alexpln259@gmail.com
-- 📚 Cursando: Analise e desenvolvimento de Sistemas - Estácio
+- 📚 Cursando: Analise e desenvolvimento de Sistemas - UniFatecie
 
 <div align="center">
   <a href="https://github.com/AlexandrePereira12">
