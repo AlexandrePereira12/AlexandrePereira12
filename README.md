@@ -1,7 +1,7 @@
 Olá, Prazer meu nome é Alexandre 👋
 
-- 🔭 Atualmente trabalhando como: Suporte tecnico nivel 2 - RastroSystem
-- 🌱 Estou aprendendo: Cypress, Python e Django
+- 🔭 Atualmente trabalhando como: Desenvolvedor FullStack - RastroSystem
+- 🌱 Estou usando no meu dia a dia: JavaScript, Python, Django, FastAPI, PostgreSql e Docker
 - 📫 Contato: alexpln259@gmail.com
 - 📚 Cursando: Analise e desenvolvimento de Sistemas - UniFatecie
 
