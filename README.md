@@ -55,4 +55,4 @@ Desenvolvedor **Full Stack**, com foco em **backend** e experiência prática em
 ## 📈 Métricas
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandrePereira12&theme=dracula" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=AlexandrePereira12&theme=dracula&no-frame=true&row=1" />
