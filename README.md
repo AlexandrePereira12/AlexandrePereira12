@@ -30,9 +30,12 @@ Desenvolvedor **Full Stack**, com foco em **backend** e experiência prática em
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AlexandrePereira12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrePereira12&layout=compact&langs_count=7&theme=dracula"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AlexandrePereira12&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"
+    width="55%"
+  />
 </div>
+
 
 ---
 
