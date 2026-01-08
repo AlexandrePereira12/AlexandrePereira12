@@ -27,21 +27,6 @@ Desenvolvedor **Full Stack**, com foco em **backend** e experiência prática em
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AlexandrePereira12&show_icons=true&theme=dracula&hide_border=true"
-    width="45%"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrePereira12&theme=dracula&hide_border=true"
-    width="45%"
-  />
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="left">
