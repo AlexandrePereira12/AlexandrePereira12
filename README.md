@@ -7,8 +7,8 @@ Desenvolvedor **Full Stack**, com foco em **backend** e experiência prática em
 ## 🚀 Sobre mim
 
 - 💼 Atualmente atuando como **Desenvolvedor Full Stack** na **RastroSystem**
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — *UniFatecie*
-- 🌱 Stack principal: **Python, Django, FastAPI, PostgreSQL, JavaScript e Docker**
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — *UniFatecie*
+- 🌱 Stack principal: **Python, Django, FastAPI, PostgreSQL, React.JS e Docker**
 - 📫 Contato: **alexpln259@gmail.com**
 
 ---
